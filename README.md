@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Muhammed Ali Peçe (mamilxrd)</h1>
+<h1 align="center">Hi there! 👋 I'm Peçe (lxrdmami0)</h1>
 
 <p align="center">
   <a href="https://github.com/mamilxrd">
@@ -18,7 +18,7 @@
 - 🌱 Currently diving deeper into **Next.js 15+**, TypeScript, Tailwind & server-side stuff  
 - 💻 Passionate about clean code, performance optimization & user-friendly apps  
 - 🎮 Side interest: **FiveM / cfx.re** scripting (Lua, JS, NUI) – custom resources & RP servers  
-- 🎵 In my free time: Music production (slorex / slorexd) & independent distribution  
+- 🎵 In my free time: Music production & independent distribution  
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/mamilxrd) | muhammedalipece@example.com | Discord: mamilxrd  
 - ⚡ Fun fact: 2005 doğumluyum, kod yazarken kahve ve lo-fi beat'ler olmazsa olmazım ☕🎧
 
@@ -32,24 +32,9 @@
 - **Databases**: SQL (MySQL/PostgreSQL), MongoDB  
 - **Other**: Git, Docker basics, FiveM Lua scripting, NUI (HTML/JS)  
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamilxrd&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamilxrd&theme=radical&hide_border=true" alt="streak stats" width="48%" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamilxrd&layout=compact&theme=radical&hide_border=true" alt="top languages" width="48%" />
 </p>
-
-### 🔥 Featured Projects
-Here are some of my pinned repos – check them out!
-
-- **[ecommerce-dashboard](https://github.com/mamilxrd/ecommerce-dashboard)** — React + Node.js + MongoDB full-stack admin panel  
-- **[task-manager](https://github.com/mamilxrd/task-manager)** — Next.js + TypeScript + PostgreSQL görev yönetim app  
-- **[fivem-custom-jobs](https://github.com/mamilxrd/fivem-custom-jobs)** — FiveM/QBCore için custom iş & envanter sistemi  
-
-More on my [repositories](https://github.com/mamilxrd?tab=repositories)!
 
 ### 📈 Contribution Snake 🐍
 ![snake gif](https://github.com/mamilxrd/mamilxrd/blob/output/github-contribution-grid-snake.svg)
