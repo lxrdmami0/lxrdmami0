@@ -19,8 +19,7 @@
 - 💻 Passionate about clean code, performance optimization & user-friendly apps  
 - 🎮 Side interest: **FiveM / cfx.re** scripting (Lua, JS, NUI) – custom resources & RP servers  
 - 🎵 In my free time: Music production & independent distribution  
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/mamilxrd) | muhammedalipece@example.com | Discord: mamilxrd  
-- ⚡ Fun fact: 2005 doğumluyum, kod yazarken kahve ve lo-fi beat'ler olmazsa olmazım ☕🎧
+- 📫 Reach me: [Instagram](instagram.com/lxrdmami) | pece@lxrd.net | Discord: lxrdmami  
 
 ### 🛠️ Tech Stack
 <p align="center">
