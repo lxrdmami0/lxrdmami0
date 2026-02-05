@@ -32,12 +32,7 @@
 - **Databases**: SQL (MySQL/PostgreSQL), MongoDB  
 - **Other**: Git, Docker basics, FiveM Lua scripting, NUI (HTML/JS)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamilxrd&layout=compact&theme=radical&hide_border=true" alt="top languages" width="48%" />
-</p>
-
 ### 📈 Contribution Snake 🐍
-![snake gif](https://github.com/mamilxrd/mamilxrd/blob/output/github-contribution-grid-snake.svg)
 
 *(GitHub Actions ile otomatik güncelleniyor – istersen sen de ekleyebilirsin!)*
 
