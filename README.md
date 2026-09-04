@@ -7,9 +7,7 @@
 
 <br/>
 
-<a href="https://github.com/lxrdmami0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=E6E6E6&center=true&vCenter=true&width=680&height=42&lines=lxrd%40void%3A~%24+whoami;%3E+mami+%E2%80%94+mid-level+full-stack+developer;%3E+next.js+%C2%B7+typescript+%C2%B7+node+%C2%B7+postgres;%3E+fivem+%2F+cfx.re+%E2%80%94+lua%2C+js%2C+nui;%3E+music+producer+after+dark;%3E+building+quiet+things+that+run+loud" alt="typing" />
-</a>
+<img width="100%" src="./assets/boot.svg" alt="boot sequence" />
 
 <br/>
 
@@ -25,7 +23,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <!-- ══════════════════════════ 01 · WHOAMI ══════════════════════════ -->
 <div align="center"><h3><samp>[ 01 ] &nbsp; W H O A M I</samp></h3></div>
@@ -72,40 +70,18 @@ how I learn every framework I touch.
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <!-- ══════════════════════════ 02 · STACK ══════════════════════════ -->
 <div align="center"><h3><samp>[ 02 ] &nbsp; S T A C K</samp></h3></div>
 
-<div align="center">
-
-<samp>frontend</samp><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,sass,vite&theme=dark" />
-
-<samp>backend &amp; data</samp><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,prisma,postgres,mysql,mongodb,redis&theme=dark" />
-
-<samp>tooling &amp; infra</samp><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,nginx,cloudflare,postman,figma&theme=dark" />
-
-<samp>extra</samp><br/>
-<img src="https://skillicons.dev/icons?i=lua,python,ableton&theme=dark" />
-
-</div>
+<img width="100%" src="./assets/stack.svg" alt="tech stack" />
 
 <br/>
 
-| domain | tools | level |
-| :--- | :--- | :--- |
-| **Frontend** | React, Next.js App Router, TypeScript, Tailwind | `██████████░░` advanced |
-| **Backend** | Node.js, Express, REST, Server Actions | `█████████░░░` advanced |
-| **Database** | PostgreSQL, MySQL, MongoDB, Prisma | `████████░░░░` proficient |
-| **PHP** | vanilla PHP, Laravel basics | `███████░░░░░` proficient |
-| **FiveM / cfx.re** | Lua, JS, NUI, ESX / QB frameworks | `██████████░░` advanced |
-| **DevOps** | Docker, Nginx, PM2, Cloudflare, VPS deploys | `██████░░░░░░` intermediate |
-| **UI / UX** | Figma, responsive systems, a11y basics | `███████░░░░░` proficient |
+<img width="100%" src="./assets/skills.svg" alt="proficiency" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <!-- ══════════════════════════ 03 · WHAT I BUILD ══════════════════════════ -->
 <div align="center"><h3><samp>[ 03 ] &nbsp; W H A T &nbsp; I &nbsp; B U I L D</samp></h3></div>
@@ -151,7 +127,7 @@ with a different compiler.
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <!-- ══════════════════════════ 04 · CURRENTLY ══════════════════════════ -->
 <div align="center"><h3><samp>[ 04 ] &nbsp; C U R R E N T L Y</samp></h3></div>
@@ -169,7 +145,7 @@ open_to:   freelance work · collaborations · long-night debugging
 reach:     discord.gg/lxrd
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <!-- ══════════════════════════ 05 · TELEMETRY ══════════════════════════ -->
 <div align="center"><h3><samp>[ 05 ] &nbsp; T E L E M E T R Y</samp></h3></div>
@@ -186,7 +162,7 @@ reach:     discord.gg/lxrd
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <!-- ══════════════════════════ 06 · SNAKE ══════════════════════════ -->
 <div align="center"><h3><samp>[ 06 ] &nbsp; S N A K E . E X E</samp></h3></div>
@@ -201,7 +177,7 @@ reach:     discord.gg/lxrd
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <!-- ══════════════════════════ 07 · CONNECT ══════════════════════════ -->
 <div align="center">
@@ -227,6 +203,6 @@ lxrd@void:~$ exit
 > connection closed — thanks for stopping by.
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,40:0a0a0a,100:000000&height=130&section=footer" />
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 </div>
