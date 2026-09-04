@@ -1,7 +1,7 @@
 <!-- ══════════════════════════ HERO ══════════════════════════ -->
 <div align="center">
 
-<h1><samp>L&nbsp;X&nbsp;R&nbsp;D</samp></h1>
+<img width="100%" src="./assets/hero.png" alt="lxrd.sys // fatal exception" />
 
 <samp>full-stack developer &nbsp;//&nbsp; fivem scripter &nbsp;//&nbsp; producer</samp>
 
