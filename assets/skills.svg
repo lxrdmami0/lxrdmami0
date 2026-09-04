@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 282" width="1200" height="282" role="img" aria-label="proficiency">
+  <style>
+    .mono { font-family: "JetBrains Mono","SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+    .k { fill:#e6e6e6; font-size:13px; }
+    .s { fill:#5c646d; font-size:11.5px; }
+    .n { fill:#8b949e; font-size:11.5px; }
+    .trk { fill:#14171b; }
+    .bar { fill:#d8dde2; transform-origin: left center; animation: grow 1.1s cubic-bezier(.2,.8,.2,1) both; }
+    @keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+  </style>
+  <rect x="0" y="0" width="1200" height="282" fill="#08090b" rx="8"/>
+  <text class="mono k" x="22" y="38">frontend</text>
+  <text class="mono s" x="22" y="52">react · next.js · typescript · tailwind</text>
+  <rect class="trk" x="208" y="36" width="916" height="6" rx="3"/>
+  <g style="animation-delay:0.00s" class="bar"><rect x="208" y="36" width="842" height="6" rx="3" fill="#d8dde2"/></g>
+  <text class="mono n" x="1178" y="43" text-anchor="end">92%</text>
+  <text class="mono k" x="22" y="72">backend</text>
+  <text class="mono s" x="22" y="86">node.js · express · rest · server actions</text>
+  <rect class="trk" x="208" y="70" width="916" height="6" rx="3"/>
+  <g style="animation-delay:0.08s" class="bar"><rect x="208" y="70" width="787" height="6" rx="3" fill="#d8dde2"/></g>
+  <text class="mono n" x="1178" y="77" text-anchor="end">86%</text>
+  <text class="mono k" x="22" y="106">database</text>
+  <text class="mono s" x="22" y="120">postgresql · mysql · mongodb · prisma</text>
+  <rect class="trk" x="208" y="104" width="916" height="6" rx="3"/>
+  <g style="animation-delay:0.16s" class="bar"><rect x="208" y="104" width="714" height="6" rx="3" fill="#d8dde2"/></g>
+  <text class="mono n" x="1178" y="111" text-anchor="end">78%</text>
+  <text class="mono k" x="22" y="140">php</text>
+  <text class="mono s" x="22" y="154">vanilla php · laravel basics</text>
+  <rect class="trk" x="208" y="138" width="916" height="6" rx="3"/>
+  <g style="animation-delay:0.24s" class="bar"><rect x="208" y="138" width="641" height="6" rx="3" fill="#d8dde2"/></g>
+  <text class="mono n" x="1178" y="145" text-anchor="end">70%</text>
+  <text class="mono k" x="22" y="174">fivem / cfx.re</text>
+  <text class="mono s" x="22" y="188">lua · js · nui · esx / qb</text>
+  <rect class="trk" x="208" y="172" width="916" height="6" rx="3"/>
+  <g style="animation-delay:0.32s" class="bar"><rect x="208" y="172" width="861" height="6" rx="3" fill="#d8dde2"/></g>
+  <text class="mono n" x="1178" y="179" text-anchor="end">94%</text>
+  <text class="mono k" x="22" y="208">devops</text>
+  <text class="mono s" x="22" y="222">docker · nginx · pm2 · cloudflare · vps</text>
+  <rect class="trk" x="208" y="206" width="916" height="6" rx="3"/>
+  <g style="animation-delay:0.40s" class="bar"><rect x="208" y="206" width="567" height="6" rx="3" fill="#d8dde2"/></g>
+  <text class="mono n" x="1178" y="213" text-anchor="end">62%</text>
+  <text class="mono k" x="22" y="242">ui / ux</text>
+  <text class="mono s" x="22" y="256">figma · responsive systems · a11y</text>
+  <rect class="trk" x="208" y="240" width="916" height="6" rx="3"/>
+  <g style="animation-delay:0.48s" class="bar"><rect x="208" y="240" width="659" height="6" rx="3" fill="#d8dde2"/></g>
+  <text class="mono n" x="1178" y="247" text-anchor="end">72%</text>
+</svg>

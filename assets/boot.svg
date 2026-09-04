@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 236" width="1200" height="236" role="img" aria-label="lxrd boot sequence">
+  <defs>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.045"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect x="0" y="0" width="1200" height="236" rx="8"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: "JetBrains Mono","SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+    .dim  { fill: #6e7681; }
+    .txt  { fill: #a9b1ba; }
+    .hi   { fill: #f2f2f2; }
+    .ok   { fill: #dcdcdc; }
+    .ln   { opacity: 0; animation: rise .5s ease-out both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+    .d1 { animation-delay: .10s } .d2 { animation-delay: .28s } .d3 { animation-delay: .46s }
+    .d4 { animation-delay: .64s } .d5 { animation-delay: .82s } .d6 { animation-delay: 1.00s }
+    .d7 { animation-delay: 1.18s } .d8 { animation-delay: 1.36s } .d9 { animation-delay: 1.60s }
+    .cur { animation: blink 1.06s steps(1,end) infinite; animation-delay: 1.8s; opacity: 0; }
+    @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    .sweep { animation: sweep 7s linear infinite; }
+    @keyframes sweep { from { transform: translateY(-70px) } to { transform: translateY(250px) } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect x="0" y="0" width="1200" height="236" rx="8" fill="#08090b"/>
+    <rect x="0" y="0" width="1200" height="236" rx="8" fill="none" stroke="#1b1f24" stroke-width="1"/>
+
+    <g class="mono" font-size="14.5">
+      <text x="28" y="40"  class="ln d1"><tspan class="dim">lxrd@void</tspan><tspan class="txt">:~$ </tspan><tspan class="hi">./boot --profile</tspan></text>
+
+      <text x="28" y="72"  class="ln d2"><tspan class="ok">[ ok ]</tspan><tspan class="txt">  mounting  /dev/identity </tspan><tspan class="dim">·····················</tspan><tspan class="hi">  mami</tspan></text>
+      <text x="28" y="96"  class="ln d3"><tspan class="ok">[ ok ]</tspan><tspan class="txt">  loading   stack.core   </tspan><tspan class="dim">·····················</tspan><tspan class="hi">  next.js · typescript · node</tspan></text>
+      <text x="28" y="120" class="ln d4"><tspan class="ok">[ ok ]</tspan><tspan class="txt">  linking   data.layer   </tspan><tspan class="dim">·····················</tspan><tspan class="hi">  postgres · prisma · mongo</tspan></text>
+      <text x="28" y="144" class="ln d5"><tspan class="ok">[ ok ]</tspan><tspan class="txt">  attaching cfx.runtime  </tspan><tspan class="dim">·····················</tspan><tspan class="hi">  fivem · lua · nui</tspan></text>
+      <text x="28" y="168" class="ln d6"><tspan class="ok">[ ok ]</tspan><tspan class="txt">  starting  sound.daemon </tspan><tspan class="dim">·····················</tspan><tspan class="hi">  online</tspan></text>
+      <text x="28" y="192" class="ln d7"><tspan class="ok">[ ok ]</tspan><tspan class="txt">  status                 </tspan><tspan class="dim">·····················</tspan><tspan class="hi">  available for work</tspan></text>
+
+      <text x="28" y="220" class="ln d9"><tspan class="dim">lxrd@void</tspan><tspan class="txt">:~$ </tspan></text>
+    </g>
+
+    <rect x="118" y="209" width="9" height="15" fill="#f2f2f2" class="cur"/>
+
+    <g class="sweep"><rect x="0" y="0" width="1200" height="70" fill="url(#scan)"/></g>
+    <rect x="0" y="235" width="1200" height="1" fill="url(#edge)"/>
+  </g>
+</svg>

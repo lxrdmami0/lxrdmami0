@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 8" width="1200" height="8" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .run { animation: run 6.5s cubic-bezier(.6,0,.4,1) infinite; }
+    @keyframes run { 0% { transform: translateX(-260px) } 100% { transform: translateX(1200px) } }
+  </style>
+  <rect x="0" y="3.5" width="1200" height="1" fill="url(#base)"/>
+  <g class="run"><rect x="0" y="3" width="260" height="2" fill="url(#glow)"/></g>
+</svg>
