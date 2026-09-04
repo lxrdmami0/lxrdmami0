@@ -1,10 +1,14 @@
-<!-- ══════════════════ HERO ══════════════════ -->
+<!-- ══════════════════════════ HERO ══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0a0a0a,100:1c1c1c&height=200&section=header&text=LXRD&fontColor=f5f5f5&fontSize=76&fontAlignY=32&desc=full-stack%20developer%20//%20fivem%20scripter%20//%20producer&descAlignY=54&descSize=15&animation=fadeIn" />
+<h1><samp>L&nbsp;X&nbsp;R&nbsp;D</samp></h1>
+
+<samp>full-stack developer &nbsp;//&nbsp; fivem scripter &nbsp;//&nbsp; producer</samp>
+
+<br/>
 
 <a href="https://github.com/lxrdmami0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=E6E6E6&center=true&vCenter=true&width=640&height=45&lines=lxrd%40void%3A~%24+whoami;%3E+pe%C3%A7e+%E2%80%94+mid-level+full-stack+developer;%3E+next.js+%C2%B7+typescript+%C2%B7+node+%C2%B7+postgres;%3E+fivem+%2F+cfx.re+%E2%80%94+lua%2C+js%2C+nui;%3E+building+in+the+dark+since+day+one" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=E6E6E6&center=true&vCenter=true&width=680&height=42&lines=lxrd%40void%3A~%24+whoami;%3E+pe%C3%A7e+%E2%80%94+mid-level+full-stack+developer;%3E+next.js+%C2%B7+typescript+%C2%B7+node+%C2%B7+postgres;%3E+fivem+%2F+cfx.re+%E2%80%94+lua%2C+js%2C+nui;%3E+music+producer+after+dark;%3E+building+quiet+things+that+run+loud" alt="typing" />
 </a>
 
 <br/>
@@ -24,18 +28,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
 
-<!-- ══════════════════ ABOUT ══════════════════ -->
-<div align="center"><h3><samp>[ 01 ] &nbsp;WHOAMI</samp></h3></div>
+<!-- ══════════════════════════ 01 · WHOAMI ══════════════════════════ -->
+<div align="center"><h3><samp>[ 01 ] &nbsp; W H O A M I</samp></h3></div>
 
 ```console
 lxrd@void:~$ cat ./identity.json
 ```
+
 ```jsonc
 {
   "alias":     "lxrd / lxrdmami",
   "role":      "Mid-Level Full-Stack Developer",
   "based_in":  "Istanbul, TR",
-  "focus":     ["Next.js 15+", "React 19", "TypeScript", "Tailwind"],
+  "stack":     ["Next.js 15+", "React 19", "TypeScript", "Tailwind"],
   "backend":   ["Node.js", "Express", "PHP", "REST APIs"],
   "data":      ["PostgreSQL", "MySQL", "MongoDB", "Prisma"],
   "sidequest": "FiveM / cfx.re — Lua, JS, NUI, RP infrastructure",
@@ -44,39 +49,50 @@ lxrd@void:~$ cat ./identity.json
 }
 ```
 
-- `>` &nbsp;Shipping full-stack products on the **Next.js / React** ecosystem
-- `>` &nbsp;Deep-diving **TypeScript**, server-side rendering and performance budgets
-- `>` &nbsp;Building custom **FiveM** resources & roleplay server infrastructure
-- `>` &nbsp;Producing music and releasing it independently when the terminal closes
-- `>` &nbsp;Open to collaboration — hit me on **[discord.gg/lxrd](https://discord.gg/lxrd)**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`>` &nbsp;what I do**
+
+Full-stack product work end to end — architecture, data model,
+API, interface, deploy. I care about the boring parts: render
+cost, query count, bundle size, and code someone else can read
+six months later.
+
+</td>
+<td width="50%" valign="top">
+
+**`>` &nbsp;where I come from**
+
+Started in game-server scripting and never lost the habit of
+reverse-engineering things until they make sense. That's still
+how I learn every framework I touch.
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
 
-<!-- ══════════════════ STACK ══════════════════ -->
-<div align="center"><h3><samp>[ 02 ] &nbsp;STACK</samp></h3></div>
+<!-- ══════════════════════════ 02 · STACK ══════════════════════════ -->
+<div align="center"><h3><samp>[ 02 ] &nbsp; S T A C K</samp></h3></div>
 
 <div align="center">
 
-<samp>frontend</samp>
-
+<samp>frontend</samp><br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,sass,vite&theme=dark" />
 
-<samp>backend &amp; data</samp>
-
+<samp>backend &amp; data</samp><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,prisma,postgres,mysql,mongodb,redis&theme=dark" />
 
-<samp>tooling</samp>
-
+<samp>tooling &amp; infra</samp><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,nginx,cloudflare,postman,figma&theme=dark" />
 
-<samp>extra</samp>
-
+<samp>extra</samp><br/>
 <img src="https://skillicons.dev/icons?i=lua,python,ableton&theme=dark" />
 
 </div>
-
-<details>
-<summary><samp><b>&nbsp;▸ &nbsp;proficiency map</b></samp></summary>
 
 <br/>
 
@@ -90,12 +106,74 @@ lxrd@void:~$ cat ./identity.json
 | **DevOps** | Docker, Nginx, PM2, Cloudflare, VPS deploys | `██████░░░░░░` intermediate |
 | **UI / UX** | Figma, responsive systems, a11y basics | `███████░░░░░` proficient |
 
-</details>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
+
+<!-- ══════════════════════════ 03 · WHAT I BUILD ══════════════════════════ -->
+<div align="center"><h3><samp>[ 03 ] &nbsp; W H A T &nbsp; I &nbsp; B U I L D</samp></h3></div>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### `web`
+
+**Full-stack apps**
+
+Next.js storefronts, dashboards
+and admin panels — auth, payments,
+Prisma schemas, server actions,
+SEO and Core Web Vitals included.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### `fivem`
+
+**Roleplay infrastructure**
+
+Custom cfx.re resources in Lua +
+JS, NUI interfaces that feel like
+real apps, ESX / QB integrations
+and server-side optimization.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### `sound`
+
+**Independent releases**
+
+Producing, mixing and shipping
+tracks on my own — the same
+build-ship-iterate loop, just
+with a different compiler.
+
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
 
-<!-- ══════════════════ STATS ══════════════════ -->
-<div align="center"><h3><samp>[ 03 ] &nbsp;TELEMETRY</samp></h3></div>
+<!-- ══════════════════════════ 04 · CURRENTLY ══════════════════════════ -->
+<div align="center"><h3><samp>[ 04 ] &nbsp; C U R R E N T L Y</samp></h3></div>
+
+```console
+lxrd@void:~$ systemctl status lxrd.service
+```
+
+```yaml
+status:    ● active (running)
+building:  full-stack products on the Next.js / React ecosystem
+learning:  server components, edge runtimes, performance budgets
+exploring: FiveM NUI architecture · type-safe end-to-end APIs
+open_to:   freelance work · collaborations · long-night debugging
+reach:     discord.gg/lxrd
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
+
+<!-- ══════════════════════════ 05 · TELEMETRY ══════════════════════════ -->
+<div align="center"><h3><samp>[ 05 ] &nbsp; T E L E M E T R Y</samp></h3></div>
 
 <div align="center">
 
@@ -111,8 +189,8 @@ lxrd@void:~$ cat ./identity.json
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
 
-<!-- ══════════════════ SNAKE ══════════════════ -->
-<div align="center"><h3><samp>[ 04 ] &nbsp;SNAKE.EXE</samp></h3></div>
+<!-- ══════════════════════════ 06 · SNAKE ══════════════════════════ -->
+<div align="center"><h3><samp>[ 06 ] &nbsp; S N A K E . E X E</samp></h3></div>
 
 <div align="center">
 
@@ -126,18 +204,29 @@ lxrd@void:~$ cat ./identity.json
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:8b8b8b,100:000000&height=2&section=header" />
 
-<!-- ══════════════════ OUTRO ══════════════════ -->
+<!-- ══════════════════════════ 07 · CONNECT ══════════════════════════ -->
 <div align="center">
 
-<h3><samp>[ 05 ] &nbsp;CONNECT</samp></h3>
+<h3><samp>[ 07 ] &nbsp; C O N N E C T</samp></h3>
 
 <a href="https://discord.gg/lxrd"><img src="https://img.shields.io/badge/JOIN%20THE%20SERVER-discord.gg%2Flxrd-0d0d0d?style=for-the-badge&logo=discord&logoColor=e6e6e6&labelColor=000000" /></a>
 
-<br/><br/>
+<br/>
+
+<table>
+<tr>
+<td align="center"><a href="https://discord.gg/lxrd"><samp>discord.gg/lxrd</samp></a></td>
+<td align="center"><a href="https://instagram.com/lxrdmami"><samp>@lxrdmami</samp></a></td>
+<td align="center"><a href="mailto:pece@lxrd.net"><samp>pece@lxrd.net</samp></a></td>
+<td align="center"><a href="https://lxrd.net"><samp>lxrd.net</samp></a></td>
+</tr>
+</table>
+
+<br/>
 
 ```console
 lxrd@void:~$ exit
-> connection closed. thanks for stopping by.
+> connection closed — thanks for stopping by.
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,40:0a0a0a,100:000000&height=130&section=footer" />
