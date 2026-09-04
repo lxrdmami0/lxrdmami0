@@ -8,14 +8,13 @@
 <br/>
 
 <a href="https://github.com/lxrdmami0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=E6E6E6&center=true&vCenter=true&width=680&height=42&lines=lxrd%40void%3A~%24+whoami;%3E+pe%C3%A7e+%E2%80%94+mid-level+full-stack+developer;%3E+next.js+%C2%B7+typescript+%C2%B7+node+%C2%B7+postgres;%3E+fivem+%2F+cfx.re+%E2%80%94+lua%2C+js%2C+nui;%3E+music+producer+after+dark;%3E+building+quiet+things+that+run+loud" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=E6E6E6&center=true&vCenter=true&width=680&height=42&lines=lxrd%40void%3A~%24+whoami;%3E+mami+%E2%80%94+mid-level+full-stack+developer;%3E+next.js+%C2%B7+typescript+%C2%B7+node+%C2%B7+postgres;%3E+fivem+%2F+cfx.re+%E2%80%94+lua%2C+js%2C+nui;%3E+music+producer+after+dark;%3E+building+quiet+things+that+run+loud" alt="typing" />
 </a>
 
 <br/>
 
 <a href="https://discord.gg/lxrd"><img src="https://img.shields.io/badge/DISCORD-discord.gg%2Flxrd-0d0d0d?style=for-the-badge&logo=discord&logoColor=e6e6e6&labelColor=000000" /></a>
 <a href="https://instagram.com/lxrdmami"><img src="https://img.shields.io/badge/INSTAGRAM-0d0d0d?style=for-the-badge&logo=instagram&logoColor=e6e6e6&labelColor=000000" /></a>
-<a href="mailto:pece@lxrd.net"><img src="https://img.shields.io/badge/MAIL-0d0d0d?style=for-the-badge&logo=maildotru&logoColor=e6e6e6&labelColor=000000" /></a>
 <a href="https://lxrd.net"><img src="https://img.shields.io/badge/LXRD.NET-0d0d0d?style=for-the-badge&logo=vercel&logoColor=e6e6e6&labelColor=000000" /></a>
 
 <br/>
@@ -217,7 +216,6 @@ reach:     discord.gg/lxrd
 <tr>
 <td align="center"><a href="https://discord.gg/lxrd"><samp>discord.gg/lxrd</samp></a></td>
 <td align="center"><a href="https://instagram.com/lxrdmami"><samp>@lxrdmami</samp></a></td>
-<td align="center"><a href="mailto:pece@lxrd.net"><samp>pece@lxrd.net</samp></a></td>
 <td align="center"><a href="https://lxrd.net"><samp>lxrd.net</samp></a></td>
 </tr>
 </table>
