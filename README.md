@@ -1,6 +1,6 @@
 ### mami
 
-Full-stack developer in Istanbul. I build products end to end — Next.js, TypeScript,
+Full-stack developer. I build products end to end — Next.js, TypeScript,
 Node and Postgres — and write FiveM / cfx.re resources on the side. The rest of the
 time I make music.
 
